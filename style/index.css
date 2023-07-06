@@ -118,3 +118,30 @@
     box-shadow: 4px 2px 15px gray;
     border-radius: 10px;
 }
+.footer-container{
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    background-color:black;
+    color: white;
+    padding: 20px;
+    height: 60vh;
+    
+
+}
+h3{
+    margin: 10px;
+}
+.copy{
+    text-align: justify;
+    margin: 10px;
+}
+.copy-right{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 18px;
+}
+
+

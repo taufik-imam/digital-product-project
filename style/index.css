@@ -2,3 +2,24 @@
     margin: 0;
     padding: 0;
 }
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #424141;
+    color: white;
+    padding: 12px;
+
+}
+.menu-bar{
+    list-style: none;
+    display: flex;
+}
+.item{
+    margin-right: 15px;
+    padding: 8px;
+    color: white;
+}
+.img{
+    width: 150px;
+}

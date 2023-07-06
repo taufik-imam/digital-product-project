@@ -52,3 +52,42 @@
     border-radius: 4px; outline: none;
     border: none;
 }
+.about{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+}
+.about-img{
+    width:300px;
+}
+.about-us-header{
+    text-align: center; margin: 20px;
+    padding: 5px;
+    font-size: 54px;
+    font-weight: bolder;
+}
+.about-text-header{
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+}
+.about-paragraph{
+    font-size: 20px;
+    
+    padding: 10px;
+    margin-bottom: 6px;
+}
+.about-btn{
+    font-size: 15px;
+    background-color: rgb(241, 56, 56);
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 6px;
+
+}
+.about-text{
+    text-align: justify;
+    padding: 20px;
+}

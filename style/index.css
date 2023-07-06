@@ -19,7 +19,36 @@
     margin-right: 15px;
     padding: 8px;
     color: white;
+    
 }
 .img{
     width: 150px;
+}
+.description{
+    display: flex;
+    justify-content: space-around;
+    background-image: url("/images/background.png"),linear-gradient(45deg,rgb(5,5,5),#2e2e2e);
+    height: 100vh;
+    align-items: center;
+    padding: 10px;
+}
+.photo{
+    width: 300px;
+}
+.header-part{
+    color: white;
+    font-size: 50px;
+    font-weight: bolder;
+}
+.paragraph-part{
+    color: white;
+    font-size: 20px;
+    margin: 15px;
+}
+.btn{
+    margin: 10px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 4px; outline: none;
+    border: none;
 }
